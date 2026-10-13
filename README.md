@@ -5,10 +5,13 @@ Interactive Power BI dashboard analysing Blinkit grocery sales by item type, out
 An interactive Power BI dashboard that analyses Blinkit grocery sales data to identify top-performing and lagging segments.
 
 ## Live Dashboard
-[Paste your Power BI link here]
+https://alliancebschool-my.sharepoint.com/:u:/g/personal/gpoojamba25_aac_alliance_edu_in/IQDxh4jCHBUgSIgItwcOswKKATznY5BhpnZn30RNH8cGWo0?e=RZTu65
 
 ## Dashboard Preview
-![Dashboard](images/dashboard1.png)
+<img width="874" height="476" alt="image" src="https://github.com/user-attachments/assets/0c531652-fcbf-435e-84fa-b35aef3b91a4" />
+<img width="725" height="365" alt="image" src="https://github.com/user-attachments/assets/e3dbfb1c-3206-4a77-ac79-d77b21f68ad3" />
+<img width="803" height="355" alt="image" src="https://github.com/user-attachments/assets/6747cfcf-655e-465b-9935-0d073bebd20a" />
+
 
 ## KPIs Tracked
 - Total Sales
